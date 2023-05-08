@@ -33,13 +33,13 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://blog.csdn.net/m0_61660028?spm=1000.2115.3001.5343',
+          path: 'https://blog.csdn.net/qq_59750259?type=blog',
         },
       ],
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/wsy1296520937',
+      path: 'https://github.com/AphroditeGift',
     },
   ],
   // styles: [style],
